@@ -20,8 +20,7 @@ int main ()
            {
              result+=lesser%2?greater:0;
                 }
- printf("%d\n",result);
- return 0;
-
-
+ 				printf("%d\n",result);
+				printf("\nI am Bibro!\n");
+				return 0;
  }
